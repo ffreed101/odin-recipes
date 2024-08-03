@@ -1,28 +1,32 @@
 body {
-    text-align: center;
-    background-color: #888888;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  background-color: #888888;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
-h1{
-    font-size: 48px;
+img {
+  border: 2px solid black;
+}
+
+h1 {
+  font-size: 48px;
 }
 
 hr {
-    border-color: black;
-    margin: 0 150px;
-    margin-bottom: 45px;
+  border-color: black;
+  margin: 0 150px;
+  margin-bottom: 45px;
 }
 
 .recipe-container {
-    padding: 0 200px;
+  padding: 0 200px;
 }
 
 .recipes {
-    text-align: left;
-    border: 1px solid #000000;
-    background-color: #b9b9b9;
-    height: 100%;
-    padding: 20px 0 25px 40px;
-    box-shadow: 8px 8px 10px #000000;
+  text-align: left;
+  border: 1px solid #000000;
+  background-color: #b9b9b9;
+  height: 100%;
+  padding: 20px 0 25px 40px;
+  box-shadow: 8px 8px 10px #000000;
 }
